@@ -1,4 +1,4 @@
-<h1>NestJS Boilerplate
+<h1>Google Document AI
   <a
     href="http://nestjs.com/"
     target="blank"
@@ -13,7 +13,7 @@
 
 ## Description
 
-[NestJS](https://github.com/nestjs/nest) Boilerplate made with ❤️ by [💡VivifyIdeas💡](https://www.vivifyideas.com).
+It scans documents 
 
 ## Start Guide
 
