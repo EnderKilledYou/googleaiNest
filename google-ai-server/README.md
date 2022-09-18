@@ -17,6 +17,9 @@ It scans documents
 
 ## Start Guide
 
+You'll need to update google-key.json with a service account that has `Document AI API User` 
+role
+
 ### Outside Docker containers
 
 - Create .env file `cp .env.example .env` and replace existing env variables
