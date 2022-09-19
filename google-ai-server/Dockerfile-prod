@@ -12,5 +12,5 @@ COPY . .
 RUN set -x && yarn run prestart:prod
 
 EXPOSE 3000
-
+ENV GOOGLE_APPLICATION_CREDENTIALS /app/google-key.json
 CMD [ "node", "dist/main.js" ]
