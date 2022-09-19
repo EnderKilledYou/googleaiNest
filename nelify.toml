@@ -1,7 +1,7 @@
 [build]
   base = "google-ai-server/"
   command = "npm run prestart:prod"
-  functions = "dist"
+  functions = "google-ai-server/dist"
 
 
 [[redirects]]
